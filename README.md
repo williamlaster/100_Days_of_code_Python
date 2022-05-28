@@ -10,3 +10,7 @@
 - <b>Day 2</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%202)
 
 - <b>Day 3</b> - [Control Flow and Logical Operators](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%203)
+
+- <b>Day 4</b> - [Randomisation and Python Lists](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%204)
+
+- <b>Day 5</b> - [Python Loops](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%205)
