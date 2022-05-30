@@ -18,3 +18,5 @@
 - <b>Day 7</b> - [Hangman](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%207/hangman)
 
 - <b>Day 8</b> - [Function Parameters & Caesar Cipher](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%208)
+
+- <b>Day 9</b> - [Dictionaries, Nesting and the Secret Auction](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%209)
