@@ -14,3 +14,7 @@
 - <b>Day 4</b> - [Randomisation and Python Lists](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%204)
 
 - <b>Day 5</b> - [Python Loops](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%205)
+
+- <b>Day 7</b> - [Hangman](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%207/hangman)
+
+- <b>Day 8</b> - [Function Parameters & Caesar Cipher](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%208)
