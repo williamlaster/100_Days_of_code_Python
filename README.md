@@ -24,3 +24,5 @@
 - <b>Day 10</b> - [Function Return Values and the Calculator Project](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2010)
 
 - <b>Day 11</b> - [Blackjack Capstone Project](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2011)
+
+- <b>Day 12</b> - [Scope and Namespacing in Python](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2012)
