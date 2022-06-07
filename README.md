@@ -30,3 +30,5 @@
 - <b>Day 13</b> - [Debugging: How to Find and Fix Errors in your Code](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2013)
 
 - <b>Day 14</b> - [Higher Lower Game Project](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2014)
+
+- <b>Day 15</b> - [Local Development Environment Setup & the Coffee Machine](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2015)
