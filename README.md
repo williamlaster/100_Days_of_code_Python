@@ -32,3 +32,5 @@
 - <b>Day 14</b> - [Higher Lower Game Project](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2014)
 
 - <b>Day 15</b> - [Local Development Environment Setup & the Coffee Machine](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2015)
+
+- <b>Day 16</b> - [Object Oriented Programming (OOP)](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2016)
