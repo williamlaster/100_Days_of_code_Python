@@ -38,3 +38,5 @@
 - <b>Day 17</b> - [The Quiz Project & the Benefits of OOP](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2017)
   
 - <b>Day 18</b> - [Turtle & the Graphical User Interface (GUI)](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2018)
+
+- <b>Day 19</b> - [Instances, State and Higher Order Functions](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2019)
