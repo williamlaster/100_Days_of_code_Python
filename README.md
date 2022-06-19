@@ -44,3 +44,5 @@
 - <b>Day 20</b> - [Build the Snake Game Part 1: Animation & Coordinates](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2020)
 
 - <b>Day 21</b> - [Build the Snake Game Part 2: Inheritance & List Slicing](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2021)
+
+- <b>Day 22</b> - [Build Pong: The Famous Arcade Game](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2022)
