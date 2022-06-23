@@ -50,3 +50,5 @@
 - <b>Day 23</b> - [ The Turtle Crossing Capstone Project](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2023)
   
 - <b>Day 24</b> - [Files, Directories and Paths](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2024)
+
+- <b>Day 25</b> - [Working with CSV Data and the Pandas Library](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2025)
