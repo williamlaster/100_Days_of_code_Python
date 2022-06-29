@@ -56,3 +56,5 @@
 - <b>Day 26</b> - [List Comprehension and the NATO Alphabet](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2026)
 
 - <b>Day 27</b> - [Tkinter, \*args, \*\*kwargs and Creating GUI Programs](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2027)
+
+- <b>Day 28</b> - [Tkinter, Dynamic Typing and the Pomodoro GUI Application](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2028)
