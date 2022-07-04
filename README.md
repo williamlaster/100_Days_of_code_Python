@@ -60,3 +60,5 @@
 - <b>Day 28</b> - [Tkinter, Dynamic Typing and the Pomodoro GUI Application](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2028)
 
 - <b>Day 29</b> - [Building a Password Manager GUI App with Tkinter](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2029)
+
+- <b>Day 30</b> - [Errors, Exceptions and JSON Data: Improving the Password Manager](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2030)
