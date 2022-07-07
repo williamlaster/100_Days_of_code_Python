@@ -64,3 +64,5 @@
 - <b>Day 30</b> - [Errors, Exceptions and JSON Data: Improving the Password Manager](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2030)
 
 - <b>Day 31</b> - [Flash Card App Capstone Project](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2031)
+
+- <b>Day 32</b> - [Send Email (smtplib) & Manage Dates (datetime)](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2032)
