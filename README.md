@@ -68,3 +68,5 @@
 - <b>Day 32</b> - [Send Email (smtplib) & Manage Dates (datetime)](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2032)
 
 - <b>Day 33</b> - [API Endpoints & API Parameters - ISS Overhead Notifier](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2033)
+
+- <b>Day 34</b> - [API Practice - Creating a GUI Quiz App](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2034)
