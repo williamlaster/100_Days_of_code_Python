@@ -70,3 +70,5 @@
 - <b>Day 33</b> - [API Endpoints & API Parameters - ISS Overhead Notifier](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2033)
 
 - <b>Day 34</b> - [API Practice - Creating a GUI Quiz App](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2034)
+
+- <b>Day 35</b> - [Keys, Authentication & Environment Variables: Send SMS](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2035)
