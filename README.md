@@ -74,3 +74,5 @@
 - <b>Day 35</b> - [Keys, Authentication & Environment Variables: Send SMS](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2035)
 
 - <b>Day 36</b> - [Stock Trading News Alert Project](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2036)
+
+- <b>Day 37</b> - [Habit Tracking Project: API Post Requests & Headers](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2037)
