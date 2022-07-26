@@ -76,3 +76,5 @@
 - <b>Day 36</b> - [Stock Trading News Alert Project](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2036)
 
 - <b>Day 37</b> - [Habit Tracking Project: API Post Requests & Headers](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2037)
+
+- <b>Day 38</b> - [Workout Tracking Using Google Sheets](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2038)
