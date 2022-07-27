@@ -78,3 +78,5 @@
 - <b>Day 37</b> - [Habit Tracking Project: API Post Requests & Headers](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2037)
 
 - <b>Day 38</b> - [Workout Tracking Using Google Sheets](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2038)
+
+- <b>Day 39</b> - [Capstone Part 1: Flight Deal Finder](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2039)
