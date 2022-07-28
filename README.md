@@ -80,3 +80,5 @@
 - <b>Day 38</b> - [Workout Tracking Using Google Sheets](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2038)
 
 - <b>Day 39</b> - [Capstone Part 1: Flight Deal Finder](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2039)
+
+- <b>Day 40</b> - [Capstone Part 2: Flight Club](https://github.com/williamlaster/100_Days_of_code_Python/tree/main/Day%2040)
